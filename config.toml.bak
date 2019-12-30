@@ -1,0 +1,57 @@
+# Page settings
+
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "慧灯小组温哥华"
+theme = "bootstrap-bp-hugo-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+[params]
+  description = "关于学佛的 事情 。。。。"
+  #images = ["logo.jpg"]
+   showPostSummary = true
+   startPageColumns = true
+   showListsGrouped = true
+   alwaysExpandMenu = true
+  customDateFormat = "02.01.2006"
+  # hideReadingTime = true
+   themeColor="light" # dark, light, blue, do not set for bootstrap default
+  # js=["/js/test_site.js"]
+  # css=["/css/test_site.css"]
+  # csscdn=["https://fonts.googleapis.com/css?family=Concert+One|Roboto&display=swap"]
+
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+    pre = "<i class='fas fa-user'></i>"
+
+    [[menu.main]]
+    identifier = "about1"
+    name = "About1"
+    url = "/about/"
+    weight = 10
+    pre = "<i class='fas fa-at'></i>"
+
+  [[menu.footer]]
+    identifier = "Imprint"
+    name = "Imprint"
+    url = "/imprint/"
+    weight = 10
+
+  [[menu.footer]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 20
+
+  [[menu.footer]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
