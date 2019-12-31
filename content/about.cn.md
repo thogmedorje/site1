@@ -4,7 +4,7 @@ date: 2018-01-01T01:02:03-08:00
 draft: false
 #tags: ["活动"]
 #categories: ["教言"]
-alias: about
+
 ---
 
 
