@@ -1,4 +1,4 @@
-baseURL: https://thogmedorje.github.io/
+baseURL: https://example.com/
 theme: pure
 title: Pure theme for Hugo
 defaultContentLanguage: en  # en/zh/...
@@ -9,8 +9,6 @@ enableEmoji: true
 googleAnalytics: ""      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
-
-#publishDir: docs
 
 taxonomies:
     category : categories
@@ -67,7 +65,7 @@ menu:
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
-  enablePostCopyright: false
+  enablePostCopyright: true
   # the directory under content folder that you want to render
   mainSections: ["posts"]
   # Enable/Disable menu icons
@@ -90,17 +88,17 @@ params:
   # profile
   profile:
     enabled: true # Whether to show profile bar
-    avatar: fwz-hero-2.png
+    avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: H.E. Asanga Vajra Sakya
-    author_title:  
-    author_description: 上师知！
-    location: India
-    follow: https://
+    author: xiaoheiAh
+    author_title: author title
+    author_description: Good Good Study, Day Day Up~
+    location: Shanghai, China
+    follow: https://github.com/xiaoheiAh
     # Social Links
     social:
       links:
-        github: https://github.com/thogmedorje
+        github: https://github.com/xiaoheiAh
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
@@ -115,7 +113,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>enjoy hhhh~</p><a href="#">google.com</a> # 公告牌
+    board: <p>enjoy~</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -188,17 +186,8 @@ params:
 
   # Sidebar only the following widgets. you can remove any you don't like it.
   widgets:
-   # - board
+    - board
     - category
     - tag
     - recent_posts
 
-languages:
-  en:
-    languageName: English
-    title: Sakya Khöndung Asanga Vajra
-    weight: 1
-  cn:
-    languageName: Chinese
-    title: 萨迦无著金刚仁波切
-    weight: 2
