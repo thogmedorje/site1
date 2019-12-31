@@ -1,5 +1,5 @@
 ---
-title: "尊贵的萨迦法王子无著金刚仁波切"
+title: "His Eminence Khöndung Asanga Vajra Rinpoche"
 date: 2018-01-01T01:02:03-08:00
 draft: false
 #tags: ["活动"]
@@ -12,7 +12,6 @@ draft: false
 
 ༧འཁོན་གདུང་ཨ་སངྒ་རིན་པོ་ཆེ་མཆོག་ནི་ས་སྐྱ་གོང་མའི་གདུང་བརྒྱུད་ཕུན་ཚོགས་ཕོ་བྲང་སྐྱབས་མགོན་གོང་མ་འཇིགས་བྲལ་བདག་ཆེན་རིན་པོ་ཆེ་ཡི་རིགས་རུས་སུ་འཁྲུངས་པ་དང་ཡུམ་ཕྱོགས་སྔར་འགྱུར་རྙིང་མའི་བླ་མ་སྐྱབས་རྗེ་ཁམས་སྤྲུལ་རིན་པོ་ཆེའི་ཚ་བོ་སུ་འཁྲུངས་ཡོད་པར་ཡིན་ནོ།།
 
-尊贵的萨迦法王子--无著金刚仁波切，是萨迦圆满宫达钦法王金刚持的最小嫡孙，拥有自西元1073年起就从未间断过的昆氏家族的高贵血脉。他的外公也是非常著名的宁玛派的高僧大德，尊贵的贾杰康楚仁波切。
 
 His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E.Khöndung Ani Vajra Sakya Rinpoche, the second son of the Phuntsok Phodrang family and Dagmo Chimey la. He is also the youngest grandson of the His Holiness Jigdal Dagchen Dorjechang Rinpoche and therefore a direct descendant of the unbroken Khön lineage which dates back to 1073. His Eminence is also the grandson of H.E. Garje Khamtrul Rinpoche, a highly realized and accomplished Nyingmapa master on his mother’s side. 
 
@@ -22,19 +21,14 @@ His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E.Khöndung Ani Vaj
 
 
 
-1999年 西雅图萨迦寺  Sakya Monastery, Seattle 1999
-
-
-
+Sakya Monastery, Seattle 1999
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK9URfXPygE3A5s6OmROBQKvdd4L9QUQu57JXYVRiaZxgjlD38Ffh9jKQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2004年 西雅图萨迦寺  Sakya Monastery, Seattle 2004
-
-
+Sakya Monastery, Seattle 2004
 
 
 
@@ -42,100 +36,72 @@ His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E.Khöndung Ani Vaj
 
 
 
-2005年西雅图萨迦寺  Sakya Monastery, Seattle 2005
-
+Sakya Monastery, Seattle 2005
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKbIYVyhlSg1IFf6ibw3oiaGsvcXQiaJ1LQVflpQcukW3DsRDphG2TfeuLw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
-
-2006年尼泊尔塔兰寺  Tharlam Monastery, Nepal 2006
-
-
-
+Tharlam Monastery, Nepal 2006
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK4mu4aRLZD5bTgh8qrwbGCkZgbFEFeWdiaUvypgEWC332tRbAKchHQ0g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2007年尼泊尔塔兰寺  Tharlam Monastery, Nepal 2007
-
-
-
+Tharlam Monastery, Nepal 2007
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKnWBZ6xy3BTDSzzj3qtlbpPpgK9cQXjoMHyOfLHdXSYb2XV1jya17KQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2008年尼泊尔蓝毗尼举行的萨迦祈愿法会  Sakya Monlam at Lumbini, Nepal 2008
-
+Sakya Monlam at Lumbini, Nepal 2008
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKwxKicKovRichotg69dia4Y86AMGmB2e7VMQibCPCDMtDAB5DXmVuvg8B1g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2012年西雅图萨迦寺  Sakya Monastery, Seattle 2012
-
-
-
+Sakya Monastery, Seattle 2012
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKkbzMtY2c8vvUdR315hzQZN4WoiarbRBzwgcINRj6uv8lTsYccMmuVvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2012年在华盛顿州的惠比贝岛  Whidbey Island, Washington 2012
-
-
-
+Whidbey Island, Washington 2012
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK3My1p9hBDH7mTCpkk6f51xnlMfYibCUjuGw75WzhvnZdFujKia7eaypw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2012年 西雅图林地动物园  Woodland Park Zoo, Seattle 2012
-
-
-
+Woodland Park Zoo, Seattle 2012
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKccia9WtTPzZx22tgWxWAeV2ts6ZAyhIFDSKiccvgh8Rp2HxzGkibhZFVQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2016年西雅图萨迦圆满宫  Phuntsok Phodrang, Seattle 2016
-
-
-
+Phuntsok Phodrang, Seattle 2016
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKiaXRLVO2ZTrBzA8tqsledqLicb7M8sHPcrJpx8GIic4YspOSUJt8kmWTQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-2016年2月 美国西雅图   Seattle ,United States Feb 2016
-
+Seattle ,United States Feb 2016
 
 
 ༸སྐྱབས་མགོན་ས་སྐྱ་གོང་མ་འཇིགས་བྲལ་བདག་ཆེན་རིན་པོ་ཆེ་མཆོག་སྐུ་ཞི་བར་གཤེགས་ནས་ལོ་གཅིག་འཁོར་པའི་དུས་ཆེན་ཉིན་ཨ་སངྒ་རིན་པོ་ཆེ་མཆོག་གིས་མཛད་པའི་མྱུར་འབྱོན་་གསོལ་འདེབས་ བཞུགས་སོ།།
-藏历二一四四年三月初二，萨迦圆满宫怙主达钦法王融入法界一周年纪念日之时，无著金刚仁波切在马拉里写作了这篇“萨迦达钦法王迅速转世祈请文”。
 
 The Swift Rebirth Prayer that H.E.Khöndung Asanga Vajra Rinpoche composed at Manali, India during the first anniversary of the Asanga Rinpoche’s grandfather H.H Sakya Jigdal Dagchen Dorjechang of passing into Parinirvana on the year 2144 of the tibetan calendar (2017)
-
-
-
 
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKQncITGWmfnDzicXfNcAwNQSJwAibQgQoBsB1ZhFch7rSwOfRKqMXBTWg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
-
-**萨迦钦法王迅速转世祈请文3遍**From 萨迦无著金刚AsangaVajraSakya*00:00**02:58*
 
 ༧མྱུར་འབྱོན་གསོལ་འདེབས་ཐུགས་རྗེ་ནན་ཏན་སྐུལ་བའི་གདུངས་དབྱངས་ཞེས་བྱ་བ་བཞུགས་སོ།
 
@@ -144,7 +110,6 @@ The Swift Rebirth Prayer that H.E.Khöndung Asanga Vajra Rinpoche composed at Ma
 SUPPLICATION FOR A QUICK ARRIVAL
 
 SONG OF LAMENTATION URGING ATTENTIVE COMPASSION
-
 
 
 
@@ -343,7 +308,6 @@ Again may the light of the doctrine blaze.
 
 ཅེས་པ་འདི་ཡང་ས་སྐྱ་ཕུན་ཚོགས་ཕོ་བྲང་༸སྐྱབས་མགོན་༸འཇིགས་བྲལ་བདག་ཆེན་རིན་པོ་ཆེ་མཆོག་གཟུགས་སྐུ་ཆོས་དབྱིངས་སུ་ཐིམ་སྟེ་ལོ་ངོ་གཅིག་འཁོར་པའི་དུས་དྲན་འདིར།། མགོན་པོ་གང་ཉིད་ཀྱི་སྐུའི་ཚ་བོ་འཁོན་རིགས་ཨ་སངྒ་བཛྲས་འཕགས་ཡུལ་མ་ནཱ་ལིར་འབོད་པར་གང་ཉིད་ཡིད་ལ་དྲན་བཞིན་དད་དམ་གཡོ་བ་མེད་པའི་ངང་བོད་རྒྱལ་ལོ་༢༡༤༤བོད་ཟླ ༣ ཚེས་༢ ཉིན་བཟང་པོ་བློ་ལ་གང་ཤར་བྲིས་པ་དགེའོ། །  ། །
 
-此乃适逢萨迦圆滿宮怙主吉札达钦仁波切色身融入法界一周年紀念日，怙主之孙昆氏无著金剛於马拉里俱信意念怙主，並以不动之虔信心于藏历二一四四年三月初二吉時所作，善哉。
 
 On the occasion of the first anniversary of Sakya Phuntsok Phodrang Jigdal Dagchen
 
