@@ -1,7 +1,8 @@
 baseURL: https://thogmedorje.github.io/
-theme: pure
-title: Pure theme for Hugo
+theme: silhouette-hugo
+title: H.E. Asanga Rinpoche's Website
 defaultContentLanguage: en  # en/zh/...
+copyright: "Copyright © 2017–2020, H.E. Asanga Rinpoche All Rights Reserved."
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
@@ -68,6 +69,8 @@ params:
   since: 2017
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: false
+  contentSharing: "I'm happy for you to share content on this site, but please provide attribution."
+
   # the directory under content folder that you want to render
   mainSections: ["posts"]
   # Enable/Disable menu icons
