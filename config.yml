@@ -200,8 +200,11 @@ languages:
   en:
     languageName: English
     title: H.E. Asanga Vajra Skaya
+    languageCode: "en"
     weight: 1
   cn:
-    languageName: Chinese
+    languageName: 中文
     title: 萨迦无著金刚仁波切
+    languageCode: "cn"
     weight: 2
+
