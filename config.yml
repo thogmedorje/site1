@@ -39,32 +39,24 @@ menu:
       title: Home 
       url: /
       weight: 1
-
+    - identifier: about
+      name: About Rinpoche
+      title: About
+      url: /about
+      weight: 2
     - identifier: news
       name: News
       title: News
       url: /categories/news
-      weight: 2
+      weight: 3
 
     - identifier: teachings
       name: Teachings
       title: Teachings
       url: /categories/teachings
-      weight: 3
-
-    - identifier: tags
-      name: Tags
-      title: Tags
-      url: /tags
       weight: 4
 
-    - identifier: about
-      name: Lineage
-      title: About
-      url: /about
-      weight: 5
-
-
+  
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
@@ -95,9 +87,9 @@ params:
     enabled: true # Whether to show profile bar
     avatar: fwz-hero-2.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: H.E. Asanga Vajra Sakya
+    author: Khöndung Asanga Vajra Sakya Rinpoche
     author_title:  
-    author_description: 上师知！
+    author_description: 
     location: India
     follow: https://
     # Social Links
@@ -199,7 +191,7 @@ params:
 languages:
   en:
     languageName: English
-    title: H.E. Asanga Vajra Skaya
+    title: Khöndung Asanga Vajra Sakya Rinpoche
     languageCode: "en"
     weight: 1
   cn:
