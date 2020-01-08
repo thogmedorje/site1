@@ -1,0 +1,37 @@
+<!-- 
+<li class="nav-item">
+    <a class="nav-link active" href="{{ "categories/news/"  | absURL }}">News</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="{{ "categories/teachings/" | absURL }}">Teachings</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link active" href="{{ "about/" | absURL }}">About</a>
+</li>
+-->
+
+{{- $currentPage := . -}}
+{{ range .Site.Menus.main -}}
+<li class="nav-item">
+    <a class="nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+</li>
+{{- end }}
+   
+    
+<!-- 
+{{- if .Site.IsMultiLingual }}
+
+  
+    {{ $siteLanguages := .Site.Languages}}
+    {{ $pageLang := .Page.Lang}}
+    {{ range .Page.AllTranslations }}
+    {{ $translation := .}}
+    {{ range $siteLanguages }}
+    <li class="nav-item">
+    <a class="nav-link active" href="{{ $translation.Permalink }}">{{ .LanguageName }}</a>
+    </li>
+    {{ end }}
+    {{ end }}
+  
+{{ end }}
+Language List -->
