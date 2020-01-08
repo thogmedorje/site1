@@ -34,11 +34,7 @@ sitemap:
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      title: Home 
-      url: /
-      weight: 1
+    
     - identifier: about
       name: About Rinpoche
       title: About
