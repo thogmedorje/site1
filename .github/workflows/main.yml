@@ -20,4 +20,4 @@ jobs:
           TARGET_REPO: thogmedorje/thogmedorje.github.io
           TOKEN: ${{ secrets.TOKEN }}
           #HUGO_ARGS: '-b https://huidengvan.github.io/'
-          CNAME: thogmedorje.github.io
+          CNAME: www.thogmedorje.io
