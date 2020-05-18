@@ -41,18 +41,33 @@ menu:
       name: About Rinpoche
       title: About
       url: /about
+      weight: 1
+
+    - identifier: posts
+      name: posts
+      title: Posts
+      url: /posts
       weight: 2
-    - identifier: tags
-      name: Tags
-      title: Tags
-      url: /tags
-      weight: 3
 
     - identifier: categories
       name: Categories
       title: Categories
       url: /categories
+      weight: 3
+
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: /tags
       weight: 4
+
+    - identifier: Chinese
+      name: 中文
+      title: 中文
+      url: /cn
+      weight: 5
+
+    
 
 outputs:
   home:
@@ -236,16 +251,16 @@ languages:
           url: /cn
           weight: 1
 
-        - identifier: news
-          name: 法讯
-          title: news
-          url: /cn/categories/法讯
+        - identifier: posts
+          name: 教言
+          title: 教言
+          url: /cn/posts
           weight: 2
 
-        - identifier: teachings
-          name: 教言
-          title: teachings
-          url: /cn/categories/教言
+        - identifier: categories
+          name: 分类
+          title: categories
+          url: /cn/categories
           weight: 3
 
         - identifier: tags
@@ -259,4 +274,10 @@ languages:
           title: About
           url: /cn/about
           weight: 5
+
+        - identifier: English
+          name: English
+          title: English
+          url: /
+          weight: 6
 
