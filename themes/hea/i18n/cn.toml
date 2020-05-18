@@ -1,0 +1,52 @@
+[readmore]
+other = "继续阅读"
+
+[lastupdated]
+other = "更新于"
+
+[readingTime]
+one = "1 分钟"
+other = "{{.Count}} 分钟"
+
+[social]
+other = "Social"
+
+[site]
+other = "Site"
+
+[translations]
+other="翻译"
+
+[themeby]
+other = "主题制作"
+
+[error404]
+other = "找不到页面."
+
+[gotohome]
+other = "回到首页"
+
+# Taxonomoy title hack
+[Categories]
+other = "分类"
+[Categorie]
+other = "分类"
+[Tags]
+other = "标签"
+[Tag]
+other = "标签"
+
+[allposts]
+other = "所有文章"
+
+[photogallery]
+other = "相册"
+
+[featuredarticles]
+other = "最新公告"
+
+[heasanga]
+other = "萨迦无著金刚仁波切"
+
+[heasangaintro]
+other = "尊贵的萨迦法王子--无著金刚仁波切，是萨迦圆满宫达钦法王金刚持的最小嫡孙，拥有自西元1073年起就从未间断过的昆氏家族的高贵血脉。他的外公也是非常著名的宁玛派的高僧大德，尊贵的贾杰康楚仁波切。"

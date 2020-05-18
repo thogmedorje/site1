@@ -18,15 +18,9 @@
         <div class="row">
             <div class="col-12">
                 <div class="index-title">
-                    <h2>His Eminence <br />Khöndung Asanga Vajra Rinpoche</h2>
+                    <h2>{{ i18n "heasanga"  }}</h2>
 
-                    <p>His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E. Khöndung Ani Vajra
-                        Sakya Rinpoche, the second son of the Phuntsok Phodrang family and Dagmo Chimey la.
-
-                        He is also the youngest grandson of the His Holiness Jigdal Dagchen Dorjechang Rinpoche and
-                        therefore a direct descendant of the unbroken Khön lineage which dates back to 1073.
-                        His Eminence is also the grandson of H.E. Garje Khamtrul Rinpoche, a highly realized and
-                        accomplished Nyingmapa master on his mother’s side.</p>
+                    <p>{{ i18n "heasangaintro"  }}</p>
                 </div>
             </div>
 
@@ -72,7 +66,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="">
-                        <h2>Featured Articles</h2>
+                        <h2>{{ i18n "featuredarticles"  }}</h2>
 
                     </div>
                 </div>
@@ -117,7 +111,7 @@
 
     <section class="recent-posts">
         <div class="">
-            <h2><span><a href="{{ "posts/" | absLangURL }}" class="text-dark">All Posts</a></span></h2>
+            <h2><span><a href="{{ "posts/" | absLangURL }}" class="text-dark"> {{ i18n "allposts"  }}</a></span></h2>
         </div>
         <div class="row listrecent">
             {{ $t := .Site.GetPage "/posts" }}
@@ -131,7 +125,7 @@
     <section>
 
         <div class="">
-            <h2><span>Photo Gallery</span></h2>
+            <h2><span>{{ i18n "photogallery"  }}</span></h2>
         </div>
         <div class="flow-gallery">
             <div>
