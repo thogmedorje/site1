@@ -117,11 +117,11 @@
 
     <section class="recent-posts">
         <div class="">
-            <h2><span>All Posts</span></h2>
+            <h2><span><a href="{{ "posts/" | absLangURL }}">All Posts</a></span></h2>
         </div>
         <div class="row listrecent">
 
-            {{ $post_paginator := .Paginate (where .Site.RegularPages "Type" "post") 6 }}
+            {{ $post_paginator := .Paginate (where .Site.RegularPages "Type" "!=" "featured") 6 }}
             {{ range $post_paginator.Pages }}
             {{- partial "list-partials/postbox.html" . -}}
             {{end}}
