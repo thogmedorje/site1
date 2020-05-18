@@ -1,0 +1,191 @@
+{{ define "header"}}
+{{- partial "_shared/navbar.html" . -}}
+
+<div class="w-100">
+    <div class="w-100">
+
+        <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg" class="w-100 " />
+
+
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="">
+                    <h2>His Eminence <br />Khöndung Asanga Vajra Rinpoche</h2>
+
+                    <p>His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E. Khöndung Ani Vajra
+                        Sakya Rinpoche, the second son of the Phuntsok Phodrang family and Dagmo Chimey la.
+
+                        He is also the youngest grandson of the His Holiness Jigdal Dagchen Dorjechang Rinpoche and
+                        therefore a direct descendant of the unbroken Khön lineage which dates back to 1073.
+                        His Eminence is also the grandson of H.E. Garje Khamtrul Rinpoche, a highly realized and
+                        accomplished Nyingmapa master on his mother’s side.</p>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+    <div class="w-100">
+        <div class="carousel"
+            data-flickity='{ "imagesLoaded": true, "percentPosition": false ,"cellAlign": "left", "contain": true }'>
+            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123639601.jpeg"
+                alt="orange tree" />
+            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510113715947.jpeg"
+                alt="submerged" />
+            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123646861.jpeg"
+                alt="look-out" />
+            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" alt="One World Trade" />
+            <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" alt="drizzle" />
+            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123654965.jpeg"
+                alt="cat nose" />
+            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200510091528354.png" />
+        </div>
+    </div>
+
+</div>
+
+{{ end }}
+
+
+
+{{ define "main" }}
+
+<div class="main-content">
+
+    <section class="">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="">
+                        <h2>Featured Articles</h2>
+
+                    </div>
+                </div>
+
+
+                {{ range first 4 (where $.Site.RegularPages "Type" "featured") }}
+                <div class="col-lg-5 col-md-10 mx-auto">
+                    <div class="card-deck ">
+                        <img class="centered-and-cropped card-img-top" width="450" height="480"
+                            src="{{ .Params.Image | absURL }}" alt="Card image">
+
+                        <div class="card-body">
+                            <h4 class="card-title">{{ .Title }}</h4>
+                            <p class="card-text"></p>
+                            <a href="{{ .Permalink }}" class="read-more">Read more ...</a>
+
+
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+
+
+    <header class="text-center">
+        {{ with .Site.Params.index.picture }}
+        <img src="{{ . | urlize | relURL }}" class="rounded-circle text-center index-image">
+        {{ end }}
+        <h1 class="index-title">{{ .Site.Params.index.title }}</h1>
+    </header>
+
+    <section class="text-center">
+        {{ with .Site.Params.index.subtitle }}
+        <h3 class="index-sub">{{ . }}</h3>
+        {{ end }}
+        {{ with .Site.Params.index.mdtext }}
+        <h6 class="index-text">{{ . | markdownify }}</h6>
+        {{ end }}
+    </section>
+
+    <section class="recent-posts">
+        <div class="">
+            <h2><span>All Posts</span></h2>
+        </div>
+        <div class="row listrecent">
+
+            {{ $post_paginator := .Paginate (where .Site.RegularPages "Type" "post") 6 }}
+            {{ range $post_paginator.Pages }}
+            {{- partial "list-partials/postbox.html" . -}}
+            {{end}}
+        </div>
+    </section>
+
+    <section>
+
+        <div class="">
+            <h2><span>Photo Gallery</span></h2>
+        </div>
+        <div class="flow-gallery">
+            <div>
+                <a href="..."><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg">
+                </a>
+            </div>
+
+            <div>
+                <a href="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510120358913.jpeg"><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510120358913.jpeg">
+                </a>
+            </div>
+            <div>
+                <a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510091318510.jpeg">
+                </a>
+            </div>
+
+            <div>
+                <a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510113715947.jpeg">
+                </a>
+            </div>
+
+            <div><a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123630569.jpeg">
+                </a>
+            </div>
+
+            <div><a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123639601.jpeg">
+                </a>
+            </div>
+
+            <div><a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123646861.jpeg">
+                </a>
+            </div>
+
+            <div><a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123654965.jpeg">
+                </a>
+            </div>
+
+            <div><a href="..."><img
+                        src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123701950.jpeg">
+                </a>
+            </div>
+
+
+        </div>
+    </section>
+
+</div>
+{{- partial "_shared/social.html" . -}}
+{{ if isset .Site.Params.index "alertbar" }}
+{{ if .Site.Params.index.alertbar }}
+{{- partial "_shared/alertbar.html" . -}}
+{{ end }}
+{{ end }}
+{{end}}
+
+{{ define "footer" }}
+{{- partial "_shared/footer.html" . -}}
+{{end}}
