@@ -1,11 +1,13 @@
 baseURL: http://www.thogmedorje.com
-theme: silhouette-hugo
+theme: hea
 title: H.E. Asanga Rinpoche's Website
 defaultContentLanguage: en  # en/zh/...
 copyright: "Copyright © 2017–2020, H.E. Asanga Rinpoche All Rights Reserved."
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
-paginate: 7
+paginate: 9
+background: "https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
+summaryLength: "10"
 enableEmoji: true
 googleAnalytics: ""      # UA-XXXXXXXX-X 
 permalinks:
@@ -23,9 +25,9 @@ outputFormats:          # use for search. recommend not to modify
     baseName: "searchindex"
     isPlainText: true
     notAlternative: true
-    
-outputs:
-    home: ["HTML","RSS","SearchIndex"]  # recommend not to modify
+
+
+
 # sitemap
 sitemap:
   changefreq: monthly
@@ -52,6 +54,11 @@ menu:
       url: /categories/teachings
       weight: 4
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
   
 params:
   since: 2017
@@ -66,6 +73,8 @@ params:
   enableMathJax: true #Enable mathjax support, to use mathematical notations
   highlightjs:
     langs: ["python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
+  layout: "1"
+  
     
   menuIcons:
     enable: true  # 是否启用导航菜单图标
@@ -183,6 +192,30 @@ params:
     - category
     - tag
     - recent_posts
+
+  instafeed:
+    enable: true
+    user_id: '4044026246'
+    access_token: 4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17
+
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+      - link: plugins/themify-icons/themify-icons.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/headroom/headroom.js
+      - link: plugins/instafeed/instafeed.min.js
+      - link: plugins/masonry/masonry.js
+      - link: plugins/reading-time/readingTime.min.js
+      - link: plugins/smooth-scroll/smooth-scroll.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+
 
 languages:
   en:
