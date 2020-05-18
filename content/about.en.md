@@ -6,9 +6,7 @@ draft: false
 #categories: ["教言"]
 ---
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKINZxFk9Pmic57CuUn5N2px6frv6404JOcWlIKvV1gvoZuUOQQKHc2eg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![image-20200517230432153](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200517230432153.png)
 
 ༧འཁོན་གདུང་ཨ་སངྒ་རིན་པོ་ཆེ་མཆོག་ནི་ས་སྐྱ་གོང་མའི་གདུང་བརྒྱུད་ཕུན་ཚོགས་ཕོ་བྲང་སྐྱབས་མགོན་གོང་མ་འཇིགས་བྲལ་བདག་ཆེན་རིན་པོ་ཆེ་ཡི་རིགས་རུས་སུ་འཁྲུངས་པ་དང་ཡུམ་ཕྱོགས་སྔར་འགྱུར་རྙིང་མའི་བླ་མ་སྐྱབས་རྗེ་ཁམས་སྤྲུལ་རིན་པོ་ཆེའི་ཚ་བོ་སུ་འཁྲུངས་ཡོད་པར་ཡིན་ནོ།།
 
@@ -16,80 +14,55 @@ draft: false
 His Eminence Khöndung Asanga Vajra Rinpoche is the son of H.E.Khöndung Ani Vajra Sakya Rinpoche, the second son of the Phuntsok Phodrang family and Dagmo Chimey la. He is also the youngest grandson of the His Holiness Jigdal Dagchen Dorjechang Rinpoche and therefore a direct descendant of the unbroken Khön lineage which dates back to 1073. His Eminence is also the grandson of H.E. Garje Khamtrul Rinpoche, a highly realized and accomplished Nyingmapa master on his mother’s side. 
 
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKn8Z62Lib4npvE7TAZMCXwsibU219OhWxg9Q3uSsau5RobltFP6MrGHZw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![1](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/1.png)
 
 
 Sakya Monastery, Seattle 1999
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK9URfXPygE3A5s6OmROBQKvdd4L9QUQu57JXYVRiaZxgjlD38Ffh9jKQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![2](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/2.png)
 
 Sakya Monastery, Seattle 2004
 
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKkduicAwV4zZJ1WIic6AN3rrQ1ldaT50kkjyuyJPl7iaELF20wTexyjbFg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/3.png)
 
 
 Sakya Monastery, Seattle 2005
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKbIYVyhlSg1IFf6ibw3oiaGsvcXQiaJ1LQVflpQcukW3DsRDphG2TfeuLw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/4.png)
 
 Tharlam Monastery, Nepal 2006
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK4mu4aRLZD5bTgh8qrwbGCkZgbFEFeWdiaUvypgEWC332tRbAKchHQ0g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/5.png)
 
 
 Tharlam Monastery, Nepal 2007
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKnWBZ6xy3BTDSzzj3qtlbpPpgK9cQXjoMHyOfLHdXSYb2XV1jya17KQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/6.png)
 
 
 Sakya Monlam at Lumbini, Nepal 2008
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKwxKicKovRichotg69dia4Y86AMGmB2e7VMQibCPCDMtDAB5DXmVuvg8B1g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/7.png)
 
 
 Sakya Monastery, Seattle 2012
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKkbzMtY2c8vvUdR315hzQZN4WoiarbRBzwgcINRj6uv8lTsYccMmuVvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/8.png)
 
 
 Whidbey Island, Washington 2012
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK3My1p9hBDH7mTCpkk6f51xnlMfYibCUjuGw75WzhvnZdFujKia7eaypw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/9.png)
 
 Woodland Park Zoo, Seattle 2012
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKccia9WtTPzZx22tgWxWAeV2ts6ZAyhIFDSKiccvgh8Rp2HxzGkibhZFVQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/10.png)
 
 Phuntsok Phodrang, Seattle 2016
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKiaXRLVO2ZTrBzA8tqsledqLicb7M8sHPcrJpx8GIic4YspOSUJt8kmWTQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/11.png)
 
 Seattle ,United States Feb 2016
 
@@ -98,9 +71,7 @@ Seattle ,United States Feb 2016
 
 The Swift Rebirth Prayer that H.E.Khöndung Asanga Vajra Rinpoche composed at Manali, India during the first anniversary of the Asanga Rinpoche’s grandfather H.H Sakya Jigdal Dagchen Dorjechang of passing into Parinirvana on the year 2144 of the tibetan calendar (2017)
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKQncITGWmfnDzicXfNcAwNQSJwAibQgQoBsB1ZhFch7rSwOfRKqMXBTWg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/12.png)
 
 
 ༧མྱུར་འབྱོན་གསོལ་འདེབས་ཐུགས་རྗེ་ནན་ཏན་སྐུལ་བའི་གདུངས་དབྱངས་ཞེས་བྱ་བ་བཞུགས་སོ།

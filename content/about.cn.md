@@ -8,7 +8,7 @@ draft: false
 ---
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKINZxFk9Pmic57CuUn5N2px6frv6404JOcWlIKvV1gvoZuUOQQKHc2eg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+![image-20200517230432153](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200517230432153.png)
 
 
 ༧འཁོན་གདུང་ཨ་སངྒ་རིན་པོ་ཆེ་མཆོག་ནི་ས་སྐྱ་གོང་མའི་གདུང་བརྒྱུད་ཕུན་ཚོགས་ཕོ་བྲང་སྐྱབས་མགོན་གོང་མ་འཇིགས་བྲལ་བདག་ཆེན་རིན་པོ་ཆེ་ཡི་རིགས་རུས་སུ་འཁྲུངས་པ་དང་ཡུམ་ཕྱོགས་སྔར་འགྱུར་རྙིང་མའི་བླ་མ་སྐྱབས་རྗེ་ཁམས་སྤྲུལ་རིན་པོ་ཆེའི་ཚ་བོ་སུ་འཁྲུངས་ཡོད་པར་ཡིན་ནོ།།
@@ -16,21 +16,27 @@ draft: false
 尊贵的萨迦法王子--无著金刚仁波切，是萨迦圆满宫达钦法王金刚持的最小嫡孙，拥有自西元1073年起就从未间断过的昆氏家族的高贵血脉。他的外公也是非常著名的宁玛派的高僧大德，尊贵的贾杰康楚仁波切。
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKn8Z62Lib4npvE7TAZMCXwsibU219OhWxg9Q3uSsau5RobltFP6MrGHZw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![1](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/1.png)
+
+
 
 
 1999年 西雅图萨迦寺
 
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK9URfXPygE3A5s6OmROBQKvdd4L9QUQu57JXYVRiaZxgjlD38Ffh9jKQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![2](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/2.png)
+
+
 
 
 
 2004年 西雅图萨迦寺
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKkduicAwV4zZJ1WIic6AN3rrQ1ldaT50kkjyuyJPl7iaELF20wTexyjbFg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![3](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/3.png)
+
+
 
 
 
@@ -38,53 +44,64 @@ draft: false
 
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKbIYVyhlSg1IFf6ibw3oiaGsvcXQiaJ1LQVflpQcukW3DsRDphG2TfeuLw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![4](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/4.png)
+
+
 
 
 
 2006年尼泊尔塔兰寺
 
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK4mu4aRLZD5bTgh8qrwbGCkZgbFEFeWdiaUvypgEWC332tRbAKchHQ0g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![5](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/5.png)
 
 
 2007年尼泊尔塔兰寺 
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKnWBZ6xy3BTDSzzj3qtlbpPpgK9cQXjoMHyOfLHdXSYb2XV1jya17KQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![6](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/6.png)
 
 
 
 2008年尼泊尔蓝毗尼举行的萨迦祈愿法会
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKwxKicKovRichotg69dia4Y86AMGmB2e7VMQibCPCDMtDAB5DXmVuvg8B1g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![7](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/7.png)
 
 
 
 2012年西雅图萨迦寺
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKkbzMtY2c8vvUdR315hzQZN4WoiarbRBzwgcINRj6uv8lTsYccMmuVvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![8](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/8.png)
 
 
 
 2012年在华盛顿州的惠比贝岛 
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxK3My1p9hBDH7mTCpkk6f51xnlMfYibCUjuGw75WzhvnZdFujKia7eaypw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![9](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/9.png)
 
 
 
 2012年 西雅图林地动物园 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKccia9WtTPzZx22tgWxWAeV2ts6ZAyhIFDSKiccvgh8Rp2HxzGkibhZFVQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![10](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/10.png)
 
 
 
 2016年西雅图萨迦圆满宫
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKiaXRLVO2ZTrBzA8tqsledqLicb7M8sHPcrJpx8GIic4YspOSUJt8kmWTQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![11](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/11.png)
+
+
 
 
 2016年2月 美国西雅图 
@@ -95,7 +112,9 @@ draft: false
 藏历二一四四年三月初二，萨迦圆满宫怙主达钦法王融入法界一周年纪念日之时，无著金刚仁波切在马拉里写作了这篇“萨迦达钦法王迅速转世祈请文”。
 
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/jZ6aUbzt6IQ6Y6lD3IqF62eKwC7pXUxKQncITGWmfnDzicXfNcAwNQSJwAibQgQoBsB1ZhFch7rSwOfRKqMXBTWg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![12](https://raw.githubusercontent.com/thogmedorje/up/master/uPic/12.png)
+
+
 
 
 

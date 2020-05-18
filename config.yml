@@ -42,16 +42,16 @@ menu:
       title: About
       url: /about
       weight: 2
-    - identifier: news
-      name: News
-      title: News
-      url: /categories/news
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: /tags
       weight: 3
 
-    - identifier: teachings
-      name: Teachings
-      title: Teachings
-      url: /categories/teachings
+    - identifier: categories
+      name: Categories
+      title: Categories
+      url: /categories
       weight: 4
 
 outputs:
@@ -233,30 +233,30 @@ languages:
         - identifier: home
           name: 首页
           title: Home 
-          url: /
+          url: /cn
           weight: 1
 
         - identifier: news
           name: 法讯
           title: news
-          url: /categories/法讯
+          url: /cn/categories/法讯
           weight: 2
 
         - identifier: teachings
           name: 教言
           title: teachings
-          url: /categories/教言
+          url: /cn/categories/教言
           weight: 3
 
         - identifier: tags
           name: 标签
           title: Tags
-          url: /tags
+          url: /cn/tags
           weight: 4
 
         - identifier: about
           name: 传承
           title: About
-          url: /about
+          url: /cn/about
           weight: 5
 
