@@ -110,13 +110,13 @@ text-align: center;">
         {{ end }}
     </section>
 
-    <div class="w-full " style="background:#800000;padding: 60px 120px;
+    <div class="w-full " style="background:#800000;padding: 60px 0;
     text-align: center;">
-    <section >
+    <section class="container-fluid">
         <div class="" style="display:none;">
             <h2><span><a href="{{ "posts/" | absLangURL }}" class="text-dark"> {{ i18n "allposts"  }}</a></span></h2>
         </div>
-        <div class="row listrecent container-fluid">
+        <div class="row listrecent ">
             {{ $t := .Site.GetPage "/posts" }}
             {{ $post_paginator := .Paginate (where (.Site.RegularPages.ByDate.Reverse) "Type" "!=" "featured") 6 }}
             {{ range $post_paginator.Pages }}
