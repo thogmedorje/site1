@@ -1,7 +1,8 @@
 {{ define "header"}}
 {{- partial "_shared/navbar.html" . -}}
 
-<div class="site-content">
+<div class="site-content w-100" style="background:#FDECC4;padding: 0px 0;
+text-align: center;">
     <div class="w-100">
 
         <header class="text-center">
@@ -59,7 +60,7 @@
 
 {{ define "main" }}
 
-<div class="main-content">
+<div class="w-full">
 
     <section class="">
         <div class="container">
@@ -109,11 +110,13 @@
         {{ end }}
     </section>
 
-    <section class="recent-posts">
-        <div class="">
+    <div class="w-full " style="background:#800000;padding: 60px 120px;
+    text-align: center;">
+    <section >
+        <div class="" style="display:none;">
             <h2><span><a href="{{ "posts/" | absLangURL }}" class="text-dark"> {{ i18n "allposts"  }}</a></span></h2>
         </div>
-        <div class="row listrecent">
+        <div class="row listrecent container-fluid">
             {{ $t := .Site.GetPage "/posts" }}
             {{ $post_paginator := .Paginate (where (.Site.RegularPages.ByDate.Reverse) "Type" "!=" "featured") 6 }}
             {{ range $post_paginator.Pages }}
@@ -121,6 +124,7 @@
             {{end}}
         </div>
     </section>
+</div>
 
     <section>
 
