@@ -89,6 +89,7 @@ params:
   highlightjs:
     langs: ["python", "javascript"] # refer to http://staticfile.org/, search highlight.js, already have highlight.min.js
   layout: "1"
+  logo: "images/weblogo7.png"
   
     
   menuIcons:
