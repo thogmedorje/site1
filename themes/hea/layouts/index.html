@@ -17,8 +17,8 @@ text-align: center;">
             <img src="https://raw.githubusercontent.com/thogmedorje/site1/master/static/images/slider/prayweb.png" class="w-100" alt="img" />
 
             
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
-                class="w-100" />
+            <!--img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
+                class="w-100" /-->
 
         </div>
 
@@ -41,27 +41,10 @@ text-align: center;">
         </div>
     </div>
 
+<!--
+    
 
-    <div class="w-100">
-        <div class="carousel"
-            data-flickity='{ "imagesLoaded": true, "percentPosition": false ,"cellAlign": "left", "contain": true,"autoPlay": true }'>
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/12.png" alt="img" />
-
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/1.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/2.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/3.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/4.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/5.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/6.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/7.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/8.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/9.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/10.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/11.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200517230432153.png"
-                alt="img" />
-        </div>
-    </div>
+    -->
 
 </div>
 
@@ -84,7 +67,7 @@ text-align: center;">
                 </div>
 
 
-                {{ range first 4 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
+                {{ range first 2 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
                 <div class="col-lg-5 col-md-10 mx-auto">
                     <div class="card-deck ">
                         <img class="centered-and-cropped card-img-top" width="450" height="480"
@@ -143,6 +126,29 @@ text-align: center;">
         <div >
             <h2><span>{{ i18n "photogallery"  }}</span></h2>
         </div>
+
+        <div class="w-100">
+            <div class="carousel"
+                data-flickity='{ "imagesLoaded": true, "percentPosition": false ,"cellAlign": "left", "contain": true,"autoPlay": true }'>
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/12.png" alt="img" />
+    
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/1.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/2.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/3.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/4.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/5.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/6.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/7.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/8.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/9.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/10.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/11.png" alt="img" />
+                <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200517230432153.png"
+                    alt="img" />
+            </div>
+        </div>
+
+        <!--
         <div class="flow-gallery">
             <div>
                 <a href="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/image-20200517230432153.png"><img
@@ -186,9 +192,9 @@ text-align: center;">
                         src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510123654965.jpeg">
                 </a>
             </div>
-
-
         </div>
+        -->
+        
     </section>
 
 </div>
