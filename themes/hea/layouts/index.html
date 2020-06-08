@@ -8,7 +8,7 @@ text-align: center;">
         <header class="text-center">
 
             <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
-                class="img-fluid" />
+                class="w-100" />
 
 
         </header>
@@ -111,10 +111,10 @@ text-align: center;">
     </section>
 
     <div class="w-full " style="background:#800000;padding: 60px 0;
-    text-align: center;">
-    <section class="container-fluid">
-        <div class="" style="display:none;">
-            <h2><span><a href="{{ "posts/" | absLangURL }}" class="text-dark"> {{ i18n "allposts"  }}</a></span></h2>
+    text-align: left;">
+    <section class="container">
+        <div class="" >
+            <h2 class="text-white"><span><a href="{{ "posts/" | absLangURL }}" class="text-white"> {{ i18n "allposts"  }}</a></span></h2>
         </div>
         <div class="row listrecent ">
             {{ $t := .Site.GetPage "/posts" }}
@@ -126,9 +126,10 @@ text-align: center;">
     </section>
 </div>
 
-    <section>
+    <section class="container" style="padding: 30px 0 0 0px;
+    text-align: left;">
 
-        <div class="">
+        <div >
             <h2><span>{{ i18n "photogallery"  }}</span></h2>
         </div>
         <div class="flow-gallery">
