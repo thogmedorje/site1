@@ -3,6 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
+<div class="container">
     {{- partial "_shared/title.html" . -}}
     <div class="main-content">
         <!-- Posts Index
@@ -21,6 +22,7 @@
         {{- partial "list-partials/pagination.html" $post_paginator -}}
     </div>
     {{- partial "_shared/alertbar.html" . -}}
+</div>
 {{ end }}
 
 {{ define "footer"}}
