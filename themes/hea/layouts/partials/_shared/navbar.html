@@ -1,12 +1,12 @@
 <!-- Begin Menu Navigation
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top  nav-down">
     <div class="container pr-0">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ .Site.BaseURL }}/">
 
             {{ with .Site.Params.logo }}
-            <img src="{{ . | urlize | relURL }}" alt="logo">
+            <img src="{{ . | urlize | relURL }}" alt="logo" height="70" class="d-inline-block align-top">
             {{ else }}
             <span style="font-family:Righteous;color:darkred">{{.Site.Title}}</span>
             {{ end }}
