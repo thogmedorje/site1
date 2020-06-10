@@ -1,6 +1,11 @@
-.hea-header {
-  background: #00f url(../images/tricolor2.png) repeat-x top;
-  height: 104px;
+.hea-header-tricolor {
+  background: #00f url(../images/tricolor3.png) repeat-x top;
+  height: 8px;
+  position: fixed;
+    top: 96px;
+    right: 0;
+    left: 0;
+    z-index: -1;
 }
 
 .index-title{
