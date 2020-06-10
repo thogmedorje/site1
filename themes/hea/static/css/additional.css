@@ -1,3 +1,8 @@
+.hea-header {
+  background: #00f url(../images/tricolor2.png) repeat-x top;
+  height: 108px;
+}
+
 .index-title{
     color: rgba(0,0,0,.84);
     margin-top:20px;
@@ -91,3 +96,5 @@
   }
 
   .centered-and-cropped { object-fit: cover }
+
+  
