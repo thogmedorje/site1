@@ -1,30 +1,94 @@
 {{ define "header"}}
 {{- partial "_shared/navbar.html" . -}}
 
-<div class="site-content w-100" style="background:#FDECC4;padding: 0px 0;
-text-align: center;">
-    <div class="w-100">
+<section id="news" class="_maxWidth">
 
-        <header class="text-center">
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
+    <article class="stage promo">
+        <a href="{{ .Permalink }}"
+            title="{{ .Title }}">
+            <div class="overlay">
 
-        </header>
+                <img src="{{ .Params.Image | absURL }}"
+                    width="1277" height="706" alt="{{ .Title }}">
 
-        <div class="carousel2"
-            data-flickity='{ "imagesLoaded": true, "percentPosition": false ,"cellAlign": "center", "contain": true,"autoPlay": true ,"adaptiveHeight": true,"wrapAround": true}'>
-            <img src="https://raw.githubusercontent.com/thogmedorje/site1/master/static/images/slider/vietnamweb.png" alt="img" />
-            <img src="https://raw.githubusercontent.com/thogmedorje/site1/master/static/images/slider/darjeelingweb.jpeg" class=" w-100" alt="img" />
-
-            <img src="https://raw.githubusercontent.com/thogmedorje/site1/master/static/images/slider/prayweb.png" class="w-100" alt="img" />
-
-            
-            <!--img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
-                class="w-100" /-->
-
+            </div>
+        </a>
+        <div class="in"><a href="{{ .Permalink }}"
+                title="{{ .Title }}">
+            </a>
+            <div class="view"><a
+                    href="{{ .Permalink }}"
+                    title="{{ .Title }}">
+                    <div class="text">{{ .PublishDate.Format "January 2, 2006" }}</div>
+                    <h2 class="title">{{ .Title }}</h2>
+                </a><a href="{{ .Permalink }}"
+                    class="btn-more"> Read more</a>
+            </div>
         </div>
 
-        
+    </article>
+    {{ end }}
+
+    
+    <div class="view" style="margin-top:30px">
+        <div class="grid">
+
+            {{ range first 3 (after 1 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured")) }}
+            <article class="three">
+                <a href="{{.Permalink}}">
+                    <div class="img ">
+
+                        <img src="{{ .Params.Image | absURL }}"
+                            alt="{{.Title}}"
+                            title="{{.Title}}" class="centered-and-cropped card-img-top" >
+
+                        <div class="caption camera">{{ .PublishDate.Format "January 2, 2006" }}</div>
+                        <div class="text">
+                            <h3>{{ .Title }}</h3>
+                        </div>
+                    </div>
+                </a>
+            </article>
+            {{ end }}
+
+            
+
+        </div><!-- . grid -->
     </div>
 
+    <article class="first">
+        <div class="view">
+            <h2><a href="/17th-karmapa/vision-of-peace/">Karmapa's vision of peace through Inner Wealth</a></h2>
+            <div class="img">
+                <a href="/17th-karmapa/vision-of-peace/">
+                    <img src="https://www.karmapa.org/wp-content/uploads/karmapa-on-expectations-and-doubts-533x400.jpg"
+                        alt="Thaye Dorje, His Holiness the 17th Gyalwa Karmapa"
+                        title="Thaye Dorje, His Holiness the 17th Gyalwa Karmapa" width="533" height="400">
+                </a>
+            </div>
+            <div class="text">
+                <p></p>
+                <p>In harmony with the Buddha’s teachings, Thaye Dorje, His Holiness the 17th Gyalwa Karmapa, has a
+                    vision of peace. Peace in the world. Peace in the minds of people. Karmapa has a unique vision of
+                    what peace really means – a state of complete awareness.</p>
+                <p>How to achieve such peace? Karmapa teaches that to achieve peace – be it personal peace, or world
+                    peace – we must first cultivate our Inner Wealth.</p>
+                <p></p>
+                <p class="text-center"><a href="/17th-karmapa/vision-of-peace/" class="btn-more">Read more</a></p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </article>
+
+</section>
+
+
+    
+
+<div class="site-content w-100" style="background:#FDECC4;padding: 0px 0;
+text-align: center;">
+   
 
     <div class="container">
         <div class="row">
@@ -41,7 +105,7 @@ text-align: center;">
         </div>
     </div>
 
-<!--
+    <!--
     
 
     -->
@@ -56,62 +120,33 @@ text-align: center;">
 
 <div class="w-full">
 
-    
-
-    <section class="">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="">
-                        <h2>{{ i18n "featuredarticles"  }}</h2>
-
-                    </div>
-                </div>
-
-
-                {{ range first 2 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
-                <div class="col-lg-5 col-md-10 mx-auto">
-                    <div class="card-deck ">
-                        <img class="centered-and-cropped card-img-top" width="450" height="480"
-                            src="{{ .Params.Image | absURL }}" alt="Card image">
-
-                        <div class="card-body">
-                            <h4 class="card-title"><a href="{{ .Permalink }}" class="text-dark">{{ .Title }}</a></h4>
-                            <p class="card-text"></p>
-                            <a href="{{ .Permalink }}" class="text-dark">Read more ...</a>
-
-
-                        </div>
-                    </div>
-                </div>
-                {{ end }}
-            </div>
-        </div>
-    </section>
 
 
     
+
+
 
     <div class="w-full " style="background:#800000;padding: 60px 0;
     text-align: left;">
-    <section class="container">
-        <div class="" >
-            <h2 class="text-white"><span><a href="{{ "posts/" | absLangURL }}" class="text-white"> {{ i18n "allposts"  }}</a></span></h2>
-        </div>
-        <div class="row listrecent ">
-            {{ $t := .Site.GetPage "/posts" }}
-            {{ $post_paginator := .Paginate (where (.Site.RegularPages.ByDate.Reverse) "Type" "!=" "featured") 6 }}
-            {{ range $post_paginator.Pages }}
-            {{- partial "list-partials/postbox.html" . -}}
-            {{end}}
-        </div>
-    </section>
-</div>
+        <section class="container">
+            <div class="">
+                <h2 class="text-white"><span><a href="{{ "posts/" | absLangURL }}" class="text-white">
+                            {{ i18n "allposts"  }}</a></span></h2>
+            </div>
+            <div class="row listrecent ">
+                {{ $t := .Site.GetPage "/posts" }}
+                {{ $post_paginator := .Paginate (where (.Site.RegularPages.ByDate.Reverse) "Type" "!=" "featured") 6 }}
+                {{ range $post_paginator.Pages }}
+                {{- partial "list-partials/postbox.html" . -}}
+                {{end}}
+            </div>
+        </section>
+    </div>
 
     <section class="container" style="padding: 30px 0 0 0px;
     text-align: left;">
 
-        <div >
+        <div>
             <h2><span>{{ i18n "photogallery"  }}</span></h2>
         </div>
 
@@ -119,7 +154,7 @@ text-align: center;">
             <div class="carousel"
                 data-flickity='{ "imagesLoaded": true, "percentPosition": false ,"cellAlign": "left", "contain": true,"autoPlay": true }'>
                 <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/12.png" alt="img" />
-    
+
                 <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/1.png" alt="img" />
                 <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/2.png" alt="img" />
                 <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/3.png" alt="img" />
@@ -185,6 +220,37 @@ text-align: center;">
 
     </section>
 
+    <div id="footer-nav">
+	
+        <div class="view">
+        
+        <div id="social">
+            <h3>
+                Follow Karmapa on social media		</h3>
+            <div class="item">
+                <a href="https://www.facebook.com/theKarmapa/" rel="me external" target="_blanc" class="circle facebook external">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                231,683 <span class="label">Friends</span>
+            </div>
+            <div class="item">
+                <a href="https://twitter.com/karmapaorg" rel="me external" target="_blanc" class="circle twitter external">
+                    <i class="fa fa-twitter"></i>
+                </a>
+                8,810 <span class="label">Followers</span>
+            </div>
+            <div class="item">
+                <a href="https://www.instagram.com/thekarmapa/" rel="me external" target="_blanc" class="circle instagram external">
+                    <i class="fa fa-instagram"></i>
+                </a>
+                 <span class="label">Followers</span>
+            </div>
+                </div>
+    
+    
+        </div>
+    
+    </div>
 </div>
 {{- partial "_shared/social.html" . -}}
 {{ if isset .Site.Params.index "alertbar" }}

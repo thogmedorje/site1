@@ -1,0 +1,210 @@
+<!-- Begin Menu Navigation
+================================================== -->
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top nav-down">
+    <div class="container pr-0 ">
+        <!-- Begin Logo -->
+        <a class="navbar-brand " href="{{ .Site.BaseURL }}/">
+
+            {{ with .Site.Params.logo }}
+            <img src="{{ . | urlize | relURL }}" alt="logo" height="70" class="d-inline-block align-top">
+            {{ else }}
+            <span style="font-family:Righteous;color:darkred">{{.Site.Title}}</span>
+            {{ end }}
+        </a>
+        <!-- End Logo -->
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            {{ $currentPage := . }}
+            <ul class="navbar-nav ml-auto">
+                {{ range .Site.Menus.main }} 
+                <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a class="nav-link" href="{{ .URL }}" >{{ .Name | title }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <!-- End Menu -->
+    </div>
+    <div class="hea-header-tricolor"></div>
+</nav>
+
+<!-- End Navigation
+================================================== -->
+
+
+<li id="menu-item-5590"
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5590">
+<a href="https://www.karmapa.org/17th-karmapa/">About Karmapa</a>
+<div class="rock"
+	style="display: none; height: 302px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-58"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a
+				title="Biography of His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/17th-karmapa/">About the 17th Karmapa</a></li>
+		<li id="menu-item-5591"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5591"><a
+				href="https://www.karmapa.org/17th-karmapa/vision-of-peace/">Peace</a></li>
+		<li id="menu-item-5602"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5602"><a
+				href="https://www.karmapa.org/17th-karmapa/inner-wealth/">Inner Wealth</a></li>
+		<li id="menu-item-5604"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5604"><a
+				href="https://www.karmapa.org/17th-karmapa/education-literacy/">Education and
+				literacy</a></li>
+		<li id="menu-item-5606"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5606"><a
+				href="https://www.karmapa.org/17th-karmapa/empowering-young-people/">Empowering
+				young people</a></li>
+		<li id="menu-item-5607"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5607"><a
+				href="https://www.karmapa.org/17th-karmapa/non-material-values/">Non-material
+				values</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-5617"
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5617">
+<a href="https://www.karmapa.org/karma-kagyu/">Lineage</a>
+<div class="rock"
+	style="display: none; height: 463px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-84"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a
+				title="Karma Kagyu lineage and history"
+				href="https://www.karmapa.org/karma-kagyu/">Karma Kagyu lineage</a></li>
+		<li id="menu-item-5618"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5618"><a
+				href="https://www.karmapa.org/karma-kagyu/history-of-the-kagyu-lineage/">Kagyu
+				lineage</a></li>
+		<li id="menu-item-5627"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5627"><a
+				href="https://www.karmapa.org/karma-kagyu/lives/">Life stories of the Kagyu
+				masters</a></li>
+		<li id="menu-item-685"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-685"><a
+				title="His Holiness 16th Karmapa"
+				href="https://www.karmapa.org/life-16th-karmapa/">His Holiness 16th Karmapa</a>
+		</li>
+		<li id="menu-item-2001"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2001"><a
+				title="His Holiness 14th Shamarpa"
+				href="https://www.karmapa.org/karma-kagyu/lives/14th-shamarpa-mipham-chokyi-lodro/">His
+				Holiness 14th Shamarpa</a></li>
+		<li id="menu-item-5516"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5516"><a
+				href="https://www.karmapa.org/karma-kagyu/lama-jigme-rinpoche/">Lama Jigme
+				Rinpoche</a></li>
+		<li id="menu-item-11381"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11381"><a
+				href="https://www.karmapa.org/17th-karmapa/karmapa-international-buddhist-institute/">Karmapa
+				International Buddhist Institute (KIBI)</a></li>
+		<li id="menu-item-6303"
+			class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6303"><a
+				href="/centers/">List of Buddhist Centers</a></li>
+		<li id="menu-item-78"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
+				title="Buddhist centers"
+				href="https://www.karmapa.org/karma-kagyu/centers/">About Buddhist centers</a>
+		</li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-35"
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35">
+<a title="News about His Holiness Karmapa Thaye Dorje" href="/news/">News &amp; Events</a>
+<div class="rock"
+	style="display: none; height: 161px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-1017"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017"><a
+				title="The latest news about His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/news/">News</a></li>
+		<li id="menu-item-1183"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1183"><a
+				title="Events coming up soon with His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/events/">Events</a></li>
+		<li id="menu-item-727"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a
+				title="Kagyu Monlam" href="https://www.karmapa.org/kagyu-monlam/">Kagyu
+				Monlam</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-31"
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31">
+<a title="Photos, videos, and other media about His Holiness Karmapa Thaye Dorje"
+	href="https://www.karmapa.org/media/">Media</a>
+<div class="rock"
+	style="display: none; height: 255px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-1394"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a
+				title="Multimedia content relating to His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/media/">Media</a></li>
+		<li id="menu-item-215"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a
+				title="Photos of His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/media/photos/">Photos</a></li>
+		<li id="menu-item-194"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a
+				title="Videos about His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/media/videos/">Videos</a></li>
+		<li id="menu-item-197"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a
+				title="Articles about, and letters by His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/media/articles/">Articles and letters</a></li>
+		<li id="menu-item-742"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742"><a
+				title="His Holiness Karmapa Thaye Dorje on social media"
+				href="https://www.karmapa.org/media/social-media/">Social media</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-8674"
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8674">
+<a href="/south-asia-buddhist-association/">Foundations</a>
+<div class="rock"
+	style="display: none; height: 67px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-8987"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8987"><a
+				href="https://www.karmapa.org/south-asia-buddhist-association/">South Asia
+				Buddhist Association</a></li>
+	</ul>
+</div>
+</li>
+<li id="menu-item-32"
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32">
+<a title="Contact His Holiness Karmapa Thaye Dorje"
+	href="https://www.karmapa.org/contact/">Contact</a>
+<div class="rock"
+	style="display: none; height: 161px; padding-top: 10px; margin-top: 0px; padding-bottom: 10px; margin-bottom: 0px;">
+	<ul class="sub-menu depth-0">
+		<li id="menu-item-5633"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5633"><a
+				href="https://www.karmapa.org/contact/">Contact</a></li>
+		<li id="menu-item-216"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a
+				title="Press enquiries for His Holiness Karmapa Thaye Dorje"
+				href="https://www.karmapa.org/contact/press_enquiries/">Press enquiries</a></li>
+		<li id="menu-item-5638"
+			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5638"><a
+				href="https://www.karmapa.org/contact/facebook/">Facebook</a></li>
+	</ul>
+</div>
+</li>
+<li class="search">
+<form action="/" method="get">
+	<input type="text" name="s" value="">
+	<input type="submit" value="">
+</form>
+</li>
