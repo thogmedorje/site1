@@ -610,7 +610,7 @@ margin: 0 auto;
 }
 
 #promo-2{
-	background: url('images/promo-3.jpg') top center no-repeat;
+	background: url('../images/promo-3.jpg') top center no-repeat;
 	background-size: cover;
 }
 

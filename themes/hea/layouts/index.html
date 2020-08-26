@@ -5,32 +5,26 @@
 
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
     <article class="stage promo">
-        <a href="{{ .Permalink }}"
-            title="{{ .Title }}">
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
             <div class="overlay">
 
-                <img src="{{ .Params.Image | absURL }}"
-                    width="1277" height="706" alt="{{ .Title }}">
+                <img src="{{ .Params.Image | absURL }}" width="1277" height="706" alt="{{ .Title }}">
 
             </div>
         </a>
-        <div class="in"><a href="{{ .Permalink }}"
-                title="{{ .Title }}">
+        <div class="in"><a href="{{ .Permalink }}" title="{{ .Title }}">
             </a>
-            <div class="view"><a
-                    href="{{ .Permalink }}"
-                    title="{{ .Title }}">
+            <div class="view"><a href="{{ .Permalink }}" title="{{ .Title }}">
                     <div class="text">{{ .PublishDate.Format "January 2, 2006" }}</div>
                     <h2 class="title">{{ .Title }}</h2>
-                </a><a href="{{ .Permalink }}"
-                    class="btn-more"> Read more</a>
+                </a><a href="{{ .Permalink }}" class="btn-more"> Read more</a>
             </div>
         </div>
 
     </article>
     {{ end }}
 
-    
+
     <div class="view" style="margin-top:30px">
         <div class="grid">
 
@@ -39,9 +33,8 @@
                 <a href="{{.Permalink}}">
                     <div class="img ">
 
-                        <img src="{{ .Params.Image | absURL }}"
-                            alt="{{.Title}}"
-                            title="{{.Title}}" class="centered-and-cropped card-img-top" >
+                        <img src="{{ .Params.Image | absURL }}" alt="{{.Title}}" title="{{.Title}}"
+                            class="centered-and-cropped card-img-top">
 
                         <div class="caption camera">{{ .PublishDate.Format "January 2, 2006" }}</div>
                         <div class="text">
@@ -52,7 +45,7 @@
             </article>
             {{ end }}
 
-            
+
 
         </div><!-- . grid -->
     </div>
@@ -84,33 +77,8 @@
 </section>
 
 
-    
-
-<div class="site-content w-100" style="background:#FDECC4;padding: 0px 0;
-text-align: center;">
-   
-
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="index-title">
-                    <h2>{{ i18n "heasanga"  }}</h2>
-
-                    <p>{{ i18n "heasangaintro"  }}</p>
-                </div>
-            </div>
 
 
-
-        </div>
-    </div>
-
-    <!--
-    
-
-    -->
-
-</div>
 
 {{ end }}
 
@@ -122,15 +90,15 @@ text-align: center;">
 
 
 
-    
 
 
 
-    <div class="w-full " style="background:#800000;padding: 60px 0;
+
+    <div class="w-full " style=";padding: 60px 0;
     text-align: left;">
         <section class="container">
             <div class="">
-                <h2 class="text-white"><span><a href="{{ "posts/" | absLangURL }}" class="text-white">
+                <h2 class="text-dark"><span><a href="{{ "posts/" | absLangURL }}" class="text-dark">
                             {{ i18n "allposts"  }}</a></span></h2>
             </div>
             <div class="row listrecent ">
@@ -220,36 +188,53 @@ text-align: center;">
 
     </section>
 
-    <div id="footer-nav">
-	
+
+
+    <section id="promo-2" class="promo">
+
         <div class="view">
-        
-        <div id="social">
-            <h3>
-                Follow Karmapa on social media		</h3>
-            <div class="item">
-                <a href="https://www.facebook.com/theKarmapa/" rel="me external" target="_blanc" class="circle facebook external">
-                    <i class="fa fa-facebook"></i>
-                </a>
-                231,683 <span class="label">Friends</span>
+
+            <div class="">
+                <h2>{{ i18n "heasanga"  }}</h2>
+
+                <p>{{ i18n "heasangaintro"  }}</p>
             </div>
-            <div class="item">
-                <a href="https://twitter.com/karmapaorg" rel="me external" target="_blanc" class="circle twitter external">
-                    <i class="fa fa-twitter"></i>
-                </a>
-                8,810 <span class="label">Followers</span>
-            </div>
-            <div class="item">
-                <a href="https://www.instagram.com/thekarmapa/" rel="me external" target="_blanc" class="circle instagram external">
-                    <i class="fa fa-instagram"></i>
-                </a>
-                 <span class="label">Followers</span>
-            </div>
-                </div>
-    
-    
         </div>
-    
+    </section>
+
+    <div id="footer-nav">
+
+        <div class="view">
+
+            <div id="social">
+                <h3>
+                    Follow Karmapa on social media </h3>
+                <div class="item">
+                    <a href="https://www.facebook.com/theKarmapa/" rel="me external" target="_blanc"
+                        class="circle facebook external">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    231,683 <span class="label">Friends</span>
+                </div>
+                <div class="item">
+                    <a href="https://twitter.com/karmapaorg" rel="me external" target="_blanc"
+                        class="circle twitter external">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                    8,810 <span class="label">Followers</span>
+                </div>
+                <div class="item">
+                    <a href="https://www.instagram.com/thekarmapa/" rel="me external" target="_blanc"
+                        class="circle instagram external">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                    <span class="label">Followers</span>
+                </div>
+            </div>
+
+
+        </div>
+
     </div>
 </div>
 {{- partial "_shared/social.html" . -}}
