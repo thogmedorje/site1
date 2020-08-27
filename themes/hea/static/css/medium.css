@@ -480,7 +480,7 @@ blockquote {
 }
 
 .listrelated .card {
-    box-shadow: 0 1px 7px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 7px #f99b18;
     border: 0;
 }
 
