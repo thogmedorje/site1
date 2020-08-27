@@ -47,12 +47,12 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    margin-top: 77px;
+    margin-top: 0px;
     transition: all 0.4s;
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 section.recent-posts {
