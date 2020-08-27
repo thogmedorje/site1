@@ -7,19 +7,16 @@ categories:
 tags:
   - Sakya Pandita
 type: featured
-image: https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG
+image: /images/hear.jpg
+image2: https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG
 ---
 ![](https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG)
-
-
 
 # THE LIFE OF SAKYA PANDITA
 
 ## Lord of the Dharma
 
 By 2nd Sakya Pandita Khenchen Appey Rinpoche
-
-
 
 1] Due to his perfections in the five branches of science, the assembly composed of the great Kashmiri Mahāpandita Śākya Śrībhadra and his disciples bestowed upon himthe coveted title of Mahāpandita. He thereby became the foremost pandita in the land of Tibet.
 
@@ -30,7 +27,7 @@ By 2nd Sakya Pandita Khenchen Appey Rinpoche
 
 5] He translated The Commentary on Valid Cognition (Pramāṇavārtika; rnam ‘grel) along with the autocommentary and taught it for a long time, which is why the exegetical tradition of thePramāṇavārtika is still prevalent in all the schools of Tibetan Buddhism.
 
-6] His Tibetan composition “Tshad ma rigs gter”, which was subsequently translated into Sanskrit and propounded in India by the students of the Kashmiri Mahāpaṇḍita Śākya Śrībhadra, is considered to be the first ever translation of a Tibetan text into an Indian language. 
+6] His Tibetan composition “Tshad ma rigs gter”, which was subsequently translated into Sanskrit and propounded in India by the students of the Kashmiri Mahāpaṇḍita Śākya Śrībhadra, is considered to be the first ever translation of a Tibetan text into an Indian language.
 
 7] He expounded the teachings of the Buddha in Mongolia for the first time, and the dharma still continues to thrive there.
 
@@ -39,7 +36,7 @@ By 2nd Sakya Pandita Khenchen Appey Rinpoche
 
 10] He defeated a famed Indian scholar, Harinanda, together with five scholars from other Indian schools in a debate that required philosophical references and valid reasoning. As a result, they converted to Buddhism.
 
-11] He bore the exclusive major and minor marks comparable to those of the Lord Buddha Śākyamuni, such as an Uṣṇīṣa clearly appearing on the top of his head, and a white circular hair between his two eyebrows (Skt. Ūrṇā). 
+11] He bore the exclusive major and minor marks comparable to those of the Lord Buddha Śākyamuni, such as an Uṣṇīṣa clearly appearing on the top of his head, and a white circular hair between his two eyebrows (Skt. Ūrṇā).
 
-12] He wrote the fourth compendium known as Clear Differentiation of the Three Vows (Trisamvaraprabheda; Sdom gsum rab dbye), which addresses the valid and invalid essences of the Buddhist doctrines in Tibet. 
+12] He wrote the fourth compendium known as Clear Differentiation of the Three Vows (Trisamvaraprabheda; Sdom gsum rab dbye), which addresses the valid and invalid essences of the Buddhist doctrines in Tibet.
 (The above mentioned salient features of SakyaPandita was written by Khenchen Appey Rinpoche and translated into English by Ngawang Tenzin under the guidance of Khenchen Sonam Gyatso)
