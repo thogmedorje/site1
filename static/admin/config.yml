@@ -15,16 +15,18 @@ public_folder: "/up/posts" # The src attribute for uploaded media will begin wit
 collections: # A list of collections the CMS should be able to edit
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Posts' # Used in the UI
+    identifier_field: pageid
     label_singular: 'Post' # Used in the UI, ie: "New Post"
     description: >
       Edit posts.
     folder: 'content/posts'
-    slug: '{{year}}{{month}}{{day}}-{{hour}}{{minute}}.{{language}}'
+    slug: '{{year}}{{month}}{{day}}-{{slug}}.{{language}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     sortableFields: ['commit_date', 'title', 'commit_author', 'language.en']
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
+      - { label: 'Page Id(for language en/cn)', name: 'pageid', widget: 'string' }
       - { label: 'Language(en/cn)', name: 'language', widget: 'string', tagname: 'language', default: 'en' }
       - {
           label: 'Publish Date',
