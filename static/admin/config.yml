@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "list"
         default: ["activity"]
       - { label: 'Type(featured or post)', name: 'type', widget: 'string', tagname: 'type', default: 'post' }
-      - { label: 'Image', name: 'image', widget: 'string', tagname: 'image' }
+      - { label: 'Image', name: 'image', widget: 'string', tagname: 'image', required: false}
       - {
           label: 'Attachments (Once uploaded/selected, you can copy the link from preview panel to body windown below)',
           name: 'attachments',
