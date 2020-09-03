@@ -9,7 +9,7 @@ paginate: 9
 background: "https://raw.githubusercontent.com/thogmedorje/up/master/uPic/WechatIMG3527.jpeg"
 summaryLength: "10"
 enableEmoji: true
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: "UA-177206499-1"      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
 

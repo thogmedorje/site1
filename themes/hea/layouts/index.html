@@ -3,7 +3,7 @@
 
 <section id="news" class="_maxWidth">
 
-    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured") }}
+    {{ with .Site.GetPage "/about" }}
     <article class="stage promo">
         <a href="{{ .Permalink }}" title="{{ .Title }}">
             <div class="overlay">
@@ -28,7 +28,7 @@
     <div class="view" style="margin-top:20px">
         <div class="grid">
 
-            {{ range first 3 (after 1 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured")) }}
+            {{ range first 3 (after 0 (where $.Site.RegularPages.ByDate.Reverse "Type" "featured")) }}
             <article class="three">
                 <a href="{{.Permalink}}">
                     <div class="img ">

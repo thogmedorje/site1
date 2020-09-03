@@ -7,8 +7,8 @@ categories:
 tags:
   - Sakya Pandita
 type: featured
-image: /images/hear.jpg
-image2: https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG
+image2: /images/hear.jpg
+image: https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG
 ---
 ![](https://raw.githubusercontent.com/thogmedorje/up/master/%E8%90%A8%E8%BF%A6%E7%8F%AD%E6%99%BA%E8%BE%BE.JPG)
 
