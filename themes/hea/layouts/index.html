@@ -17,7 +17,7 @@
             <div class="view"><a href="{{ .Permalink }}" title="{{ .Title }}">
                     <div class="text">{{ .PublishDate.Format "January 2, 2006" }}</div>
                     <h2 class="title">{{ .Title }}</h2>
-                </a><a href="{{ .Permalink }}" class="btn-more"> Read more</a>
+                </a><a href="{{ .Permalink }}" class="btn-more"> {{ i18n "readmore"  }} </a>
             </div>
         </div>
 
@@ -52,9 +52,9 @@
 
     <article class="first">
         <div class="view">
-            <h2><a href="/vision-of-peace/">Asanga Rinpoche's vision of peace through Inner Wealth</a></h2>
+            <h2><a href={{ "/2018/04/20180430/" | relLangURL }} >{{ i18n "feature_title"  }}</a></h2>
             <div class="img">
-                <a href="/vision-of-peace/">
+                <a href={{ "/2018/04/20180430/" | relLangURL }}>
                     <img src="https://raw.githubusercontent.com/thogmedorje/up/master/uPic/640-20200510120358913.jpeg"
                         alt="H.E. Asanga Rinpoche"
                         title="H.E. Asanga Rinpoche" width="533" height="400">
@@ -62,13 +62,9 @@
             </div>
             <div class="text">
                 <p></p>
-                <p>In harmony with the Buddha’s teachings, H.E. Asanga Rinpoche, has a
-                    vision of peace. Peace in the world. Peace in the minds of people. Asanga Rinpoche has a unique vision of
-                    what peace really means – a state of complete awareness.</p>
-                <p>How to achieve such peace? Asanga Rinpoche teaches that to achieve peace – be it personal peace, or world
-                    peace – we must first cultivate our Inner Wealth.</p>
+                <p>{{ i18n "feature_content1"  }}</p>
                 <p></p>
-                <p class="text-center"><a href="/" class="btn-more">Read more</a></p>
+                <p class="text-center"><a href={{ "/2018/04/20180430/" | relLangURL }} class="btn-more">{{ i18n "readmore"  }}</a></p>
             </div>
             <div class="clearfix"></div>
         </div>
